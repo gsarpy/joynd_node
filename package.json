@@ -1,0 +1,19 @@
+{
+  "name": "joynd",
+  "version": "0.0.1",
+  "description": "social network by interest",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsarpy/joynd_node.git"
+  },
+  "author": "Gregory Sarpy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsarpy/joynd_node/issues"
+  },
+  "homepage": "https://github.com/gsarpy/joynd_node#readme"
+}
